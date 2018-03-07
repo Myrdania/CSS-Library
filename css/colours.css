@@ -1,0 +1,26 @@
+.primary {
+	color:#ff8000;
+	background-color:#000;
+}
+
+.accent {
+	color:#b35900;
+	background-color:#000;
+}
+.success {
+	color:#59b300;
+	background-color:#000;
+}
+.warning {
+	color:#F90000;
+	background-color:#000;
+}
+.panic {
+	color:#F900E0;
+	background-color:#000;
+	font-weight:bolder;
+}
+.info {
+	color:#4d2600;
+	background-color:#000;
+}
