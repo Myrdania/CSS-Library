@@ -1,0 +1,7 @@
+.docs .item, .docs article {
+	padding-left:2em;
+	padding-bottom:2em;
+}
+.docs .colours .item h2 {
+	margin-bottom:0px;
+}
