@@ -1,15 +1,19 @@
 /*
 	FLEXBOX
 */
-.docs .item, .docs article {
+.docs article, .docs .item {
 	padding-left:2em;
 	padding-bottom:2em;
 }
-.docs .colours .item h2 {
+.docs .item h2 {
 	margin-bottom:0px;
 }
 
 .flexbox {
-	flex-direction:row;
 	display: flex;
+	flex-direction:row;
+}
+
+.menu .item{
+	margin:0.04em;
 }
