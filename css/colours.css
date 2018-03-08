@@ -1,28 +1,22 @@
 .color-primary {
-	color:#ff8000;
-	background-color:#000;
+	color:#b35900;
 }
 
-.color-accent {
-	color:#b35900;
-	background-color:#000;
+.color-accent,a, a:hover {
+	color:#a33900;
 }
 .color-success {
 	color:#59b300;
-	background-color:#000;
 }
 .color-warning {
 	color:#F90000;
-	background-color:#000;
 }
 .color-panic {
 	color:#F900E0;
-	background-color:#000;
 	font-weight:bolder;
 }
 .color-info {
 	color:#4d2600;
-	background-color:#000;
 }
 
 body {
