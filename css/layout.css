@@ -1,6 +1,11 @@
 /*
 	FLEXBOX
 */
+
+.docs {
+	display:none;
+}
+
 .docs article, .docs .item {
 	padding-left:2em;
 	padding-bottom:2em;
