@@ -1,9 +1,12 @@
 /*
 	FLEXBOX
 */
+.show {
+	display: block;
+}
 
-.docs {
-	display:none;
+.hide {
+	display: none;
 }
 
 .docs article, .docs .item {
